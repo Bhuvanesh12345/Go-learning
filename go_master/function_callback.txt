@@ -1,0 +1,3 @@
+●	passing a func as an argument
+●	functional programming not something that is recommended in go, however, it is good to be aware of callbacks
+●	idiomatic go: write clear, simple, readable code
